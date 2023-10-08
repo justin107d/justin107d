@@ -1,6 +1,6 @@
 ## Welcome to my Github!
 
-I am currently living in Connecticut working with django and react.  I have been playing with python for a few years now and have recently been diving into django and front-end development.  Please feel free to reach out if you would like to talk about coding in general, a project, to network or if you would like help.  I am a semi regular attendee of the Connecticut coders meet up at the makerspace in Hartford on Sunday mornings.
+I am currently living in Connecticut working with django and react.  I have been coding in python for a few years now and continuing to explore other areas and languages.  Please feel free to reach out if you would like to talk about coding in general, a project, to network, or if you would like help.
 
 <br/>
 
