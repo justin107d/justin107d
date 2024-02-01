@@ -18,8 +18,9 @@ New things I plan/hope to work on:
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
+<br/>
 
-
+Links:
 [<img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-162-498418.png" width="40">](https://www.linkedin.com/in/dionjustin/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/meetup-2752123-2284940.png" width="40">](https://www.meetup.com/central-connecticut-coders/)
 
