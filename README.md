@@ -21,6 +21,7 @@ New things I plan/hope to work on:
 <br/>
 
 Links:
+
 [<img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-162-498418.png" width="40">](https://www.linkedin.com/in/dionjustin/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/meetup-2752123-2284940.png" width="40">](https://www.meetup.com/central-connecticut-coders/)
 
