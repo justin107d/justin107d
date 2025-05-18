@@ -1,6 +1,7 @@
 ## Hello!
 
-I am currently living in Connecticut using Django and React to build an app.  In addition to coding, I can often be found stabbing people 🤺.  Please feel free to reach out about anything at all.  I can sometimes be found at the CT Coding Meetup.
+Living in Connecticut, currently building a Django and React app.  I am always excited to connect with other developers, share, and learn.  If you have any questions, feel free to reach out.  I can sometimes be found at the West Hartford Code & Coffee Meetup.  When I am not coding, I can often be found stabbing my friends or teaching others to stab their friends🤺.  
+
 
 <br/>
 
