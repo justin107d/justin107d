@@ -1,9 +1,18 @@
 ## Hello!
 
-Living in Connecticut, currently building a Django and React app.  I am always excited to connect with other developers, share, and learn.  If you have any questions, feel free to reach out.  I can sometimes be found at the West Hartford Code & Coffee Meetup.  When I am not coding, I can often be found stabbing my friends or teaching others to stab their friends🤺.  
+Living in Connecticut, currently building a Django and React app.  I am always excited to connect, share, and learn with other developers.  If you have any questions, feel free to reach out.  I can sometimes be found at the West Hartford Code & Coffee Meetup.  When I am not coding, I can often be found stabbing my friends or teaching others to stab their friends🤺. 
+
 
 
 <br/>
+
+Links:
+
+[<img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-162-498418.png" width="40">](https://www.linkedin.com/in/dionjustin/)
+
+
+
+<!--
 
 What I am working on now:
 
@@ -16,15 +25,7 @@ New things I plan/hope to work on:
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=Nvidia&logoColor=9FEF00"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">  
 
-<br/>
 
-Links:
-
-[<img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-162-498418.png" width="40">](https://www.linkedin.com/in/dionjustin/)
-
-
-
-<!--
 more badges::  https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/meetup-2752123-2284940.png" width="40">](https://www.meetup.com/central-connecticut-coders/)
